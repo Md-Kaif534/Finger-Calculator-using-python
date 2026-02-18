@@ -20,11 +20,7 @@ A Python-based computer vision application that lets you perform arithmetic calc
 
 ## 🖥️ Demo / Screenshot
 
-> _Add your screenshot here after running the project_
-
-```
-Place your screenshot.png in the project folder and update this section.
-```
+![Finger Calculator Screenshot](screenshot.png)
 
 ---
 
